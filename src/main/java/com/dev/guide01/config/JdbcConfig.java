@@ -9,7 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 import javax.sql.DataSource;
 
 /**
- * ## java配置
+ * ## java配置(还有更为优雅的配置方式,请参考spring boot的注入方式)
  *
  * java配置主要靠java类和一些注解，比较常用的注解有：
  *
